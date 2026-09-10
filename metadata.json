@@ -1,0 +1,7 @@
+{
+  "name": "Music X",
+  "description": "Music streaming player with ExoPlayer, dynamic stream tunnels, and lyrics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
